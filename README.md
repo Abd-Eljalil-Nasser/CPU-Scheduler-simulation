@@ -2,6 +2,7 @@
 
 ## Requirements 
 1.C++ 
+
 2.Qt creator 
 
 ## Describtion 
