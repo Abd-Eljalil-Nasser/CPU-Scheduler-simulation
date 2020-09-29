@@ -1,4 +1,4 @@
-# CPU Scheduler simualtion
+# CPU Scheduler simulation
 
 ## Requirements 
 - C++ 
